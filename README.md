@@ -1,0 +1,1 @@
+# graphql-custom-type-name
